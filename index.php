@@ -8,6 +8,9 @@
 </head>
 <body>
 
+    <div id='app'>
+
+
     <?php include __DIR__ . '/scripts/database.php'; ?>
 
     <!-- header -->
@@ -16,7 +19,7 @@
     <!-- main -->
    <?php include __DIR__ . '/scripts/main.php'; ?>
 
-
+   </div>
 
    <script src="./dist/js/main.js"></script>
 </body>
