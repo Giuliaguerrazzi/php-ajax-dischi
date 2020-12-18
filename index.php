@@ -11,8 +11,6 @@
     <div id='app'>
 
 
-    <?php include __DIR__ . '/scripts/database.php'; ?>
-
     <!-- header -->
    <?php include __DIR__ . '/scripts/header.php'; ?>
 

@@ -37,3 +37,7 @@ header .logo img {
   width: 100%;
   margin-bottom: 10px;
 }
+.disc .container .box-disc h4,
+.disc .container .box-disc p {
+  margin-bottom: 10px;
+}
